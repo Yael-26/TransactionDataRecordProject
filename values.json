@@ -1,0 +1,16 @@
+{
+    "youtube_port": 443,
+    "udp": 17,
+    "request_packet_threshold": 700,
+    "minimum_video_connection_size":10000,
+    "inbound_packets_in_range_min": 500,
+    "inbound_packets_in_range_max": 2000,
+    "outbound_packets_in_range_min": 0,
+    "outbound_packets_in_range_max": 699,
+    "max_diff_time_inbound_threshold": 500,
+    "min_diff_time_inbound_threshold": 3,
+    "number_of_videos_to_output_statistics_per_video":  3,    
+    "max_number_of_connections":555,
+    "max_number_of_transaction_per_video": 1000,
+    "video_connection_timeout": 20
+}
